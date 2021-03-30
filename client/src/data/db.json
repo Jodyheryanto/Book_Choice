@@ -1,0 +1,68 @@
+{
+	"books": [
+    {
+    	"id": 0,
+        "judul": "C++ High Performance",
+        "deskripsi": "Write code that scales accross CPU registers, multi-core, and machine clusters",
+        "publish": "2019-02-20",
+        "authors": "Jody",
+        "image": "c++-high-performance"
+    },
+    {
+    	"id": 1,
+        "judul": "Kali Linux - Assuring Security by Penetration Testing",
+        "deskripsi": "Write code that scales accross CPU registers",
+        "publish": "2019-08-25",
+        "authors": "Aprilianto",
+        "image": "kalilinux"
+    },
+    {
+    	"id": 2,
+        "judul": "Asynchronous Android",
+        "deskripsi": "As an Android developer you know you’re in a competitive marketplace. ",
+        "publish": "2019-09-01",
+        "authors": "Feisal",
+        "image": "bookandroid"
+    },
+    {
+    	"id": 3,
+        "judul": "Vue Js",
+        "deskripsi": "Vue with Extra",
+        "publish": "2019-06-27",
+        "authors": "Budi Setiawan",
+        "image": "vuejsbook"
+    },
+    {
+    	"id": 4,
+        "judul": "Ethical Hacking",
+        "deskripsi": "Build enterprise modullar with Vue JS",
+        "publish": "2019-10-03",
+        "authors": "Joko Ardianto",
+        "image": "ethicalhacking"
+    },
+    {
+    	"id": 5,
+        "judul": "React",
+        "deskripsi": "Build 12 from scracth with React & React native",
+        "publish": "2019-06-27",
+        "authors": "Diky Firdaus",
+        "image": "reactbook"
+    },
+    {
+    	"id": 6,
+        "judul": "Mastering Kali Linux",
+        "deskripsi": "Get the security in the world!",
+        "publish": "2019-10-03",
+        "authors": "Desi Ramayanti",
+        "image": "kalilinuxmaster"
+    },
+    {
+    	"id": 7,
+        "judul": "Machine Learning",
+        "deskripsi": "Learning with innovative and cutting-edge",
+        "publish": "2019-10-30",
+        "authors": "Kodar Sudrajat",
+        "image": "machinelearningbook"
+    }
+    ]
+}
